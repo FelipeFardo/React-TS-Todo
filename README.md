@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-FardoGram consiste em uma aplicação web para anotação de tarefas onde os usuários podem adicionar, visualizar, editar e excluir. O projeto se baseia nas funcionalidades básicas do To do da Microsoft<br/>
+To Do consiste em uma aplicação web para anotação de tarefas onde os usuários podem adicionar, visualizar, editar e excluir tarefas. O projeto se baseia nas funcionalidades básicas da aplicação To Do da Microsoft<br/>
 Curso de React da plataforma Udemy
 
 ## Layout Web
