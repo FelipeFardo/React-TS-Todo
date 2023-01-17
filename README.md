@@ -11,15 +11,15 @@ Curso de React da plataforma Udemy
 
 - Página Home
 
-![Web Home](https://github.com/FelipeFardo/Assets/blob/main/React-TS-Todo/Screenshot_1.png)
+![Web Home](https://github.com/FelipeFardo/Assets/blob/main/React%2BTS-Todo/Screenshot_1.png)
 
 - Listas de tarefas
 
-![Web Tasks](https://github.com/FelipeFardo/Assets/blob/main/React-TS-Todo/Screenshot_2.png)
+![Web Tasks](https://github.com/FelipeFardo/Assets/blob/main/React%2BTS-Todo/Screenshot_2.png)
 
 - Editar tarefa
 
-![Web Edit_Task](https://github.com/FelipeFardo/Assets/blob/main/React-TS-Todo/Screenshot_3.png)
+![Web Edit_Task](https://github.com/FelipeFardo/Assets/blob/main/React%2BTS-Todo/Screenshot_3.png)
 
 # Tecnologias usadas:
 
