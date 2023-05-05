@@ -1,4 +1,4 @@
-# Project To do
+# Projeto To do
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/FelipeFardo/React-TS-Todo/blob/main/LICENSE)
 
